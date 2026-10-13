@@ -73,7 +73,7 @@ Discover how Jawwal's intelligent agents work together to enhance the tourism ex
 
 Explore the project idea, challenges, proposed solution, and future development plans.
 
-📄 [View Project Presentation](Jawwal-Presentation.pdf)
+📄 [View Project Presentation](https://drive.google.com/file/d/1wxBDp9EG4bLlL1DXOiDbmtRhuz9si34s/view?usp=drivesdk)
 
 ---
 
