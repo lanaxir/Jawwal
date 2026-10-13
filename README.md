@@ -77,6 +77,45 @@ Explore the project idea, challenges, proposed solution, and future development 
 
 ---
 
+---
+
+## 🏆 Project Achievements & Highlights
+
+### 🌟 September 8, 2026 | University-Level Project Presentation
+
+Following our nomination on September 5, our team had the opportunity to present **Jawwal** before the Vice President for Graduate Studies and Scientific Research at Qassim University.
+
+This opportunity marked an important milestone in showcasing our project at the university level.
+
+📄 [View Achievement Documentation](https://drive.google.com/file/d/1O4wNZ11Ml88J2iwsprYY6sq3tHtRf62w/view?usp=drivesdk)
+
+---
+
+### 🎓 October 6, 2026 | College of Computer Projects Exhibition
+
+Our team proudly showcased **Jawwal** at the College of Computer Projects Exhibition at Qassim University.
+
+During the exhibition, our project booth was visited by distinguished university leaders, including the President of Qassim University, the Dean of the College of Computer, and several faculty members.
+
+The exhibition provided a valuable opportunity to demonstrate our project, share its vision, and engage with the university community.
+
+📄 [View Exhibition Documentation](https://drive.google.com/file/d/1XJG8Wi2WQZqVuIdnHtklmDPYL5__y1xE/view?usp=drivesdk)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ## 🎯 Our Vision
 
 To create an intelligent and integrated tourism experience that connects planning, exploration, culture, and memories in one platform.
